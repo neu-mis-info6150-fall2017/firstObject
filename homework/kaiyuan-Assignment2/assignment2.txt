@@ -1,0 +1,30 @@
+﻿8,1995,850,Browsedrive,expired,127,1:58,Sinjil,Mate,yes
+7117,2010,Tacoma,JumpXS,not expired,137,6:58,Lawrenceville,Indian Strawberry,yes
+15,1992,Lumina APV,Oozz,expired,146,1:05,Rehoboth,Balsamillo,no
+32,1994,V8,Gevee,not expired,113,1:04,Fangjun,Yellow Coralbells,yes
+15,2006,Armada,Ainyx,expired,138,9:27,Eldoret,Sticky Phlox,no
+35286,2004,Boxster,Vipe,not expired,118,11:03,Nueva Manoa,California Plumeseed,yes
+6111,1997,Sable,Skyvu,expired,170,21:07,Rodolívos,Oakwoods Dewberry,no
+97,2007,Focus,Oyonder,expired,141,19:05,Bedalewun,Hobdy's Spleenwort,yes
+3,2012,Jetta,Yakitri,not expired,107,4:14,Dolní Lhota,Pacific Springbeauty,yes
+528,1985,Tredia,Realpoint,expired,112,2:48,Osinniki,Sickletop Lousewort,yes
+389,1996,SC,Youfeed,expired,132,14:30,Presnenskiy,King's Gold,no
+389,1976,Golf,Kwideo,not expired,152,18:35,Abaza,Floerkea,yes
+8809,2005,Elise,Mita,expired,108,10:14,Mancagahar,Common Snowberry,no
+8,2002,Challenger,Fivebridge,expired,126,3:21,Dajin,Little Gilia,yes
+4,1997,3 Series,Flashspan,expired,196,2:06,Zhongfang,Cinclidium Moss,no
+487,2003,MR2,Izio,not expired,140,23:20,Khromtau,Enterographa Lichen,yes
+66984,1999,Charger,Kwinu,expired,156,14:07,Ruda-Huta,Nakedstem Gymnosteris,yes
+46,1997,Suburban 2500,Yakijo,not expired,141,17:55,Murom,Cutleaf Stork's Bill,no
+5355,2010,G-Class,Roodel,expired,124,3:31,Al Jīzah,Chinese Foldwing,yes
+3,2006,STS-V,Divavu,not expired,199,10:47,Tutong,Centipede Grass,no
+0,2006,Torrent,Tagtune,expired,117,3:22,Xincheng Chengguanzhen,Burke's Baeria,yes
+2,1998,Dakota Club,Avamba,not expired,144,4:01,Kalimati,Northern Beantree,yes
+38849,2007,DTS,Rhynoodle,expired,120,20:17,Maoping,Nightshade,yes
+904,1997,Tercel,Brainbox,expired,135,18:16,Veternik,Ladies'-tresses,yes
+615,1994,Century,Skibox,expired,179,5:59,Huai’an,Guayabilla,no
+655,2009,Pathfinder,Thoughtsphere,expired,116,1:00,Orléans,Taos Penstemon,yes
+1321,2012,Cooper,Avaveo,not expired,136,2:06,Léchovo,Heartleaf Foamflower,yes
+3,1993,Impreza,Dablist,expired,106,13:46,María la Baja,Halimodendron,no
+81,2008,F-Series Super Duty,BlogXS,expired,184,0:52,Waishan,Roundleaf Phacelia,yes
+98,1991,9000,Skiptube,expired,169,15:12,Yangkang,Groundsel,yes
